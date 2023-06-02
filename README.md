@@ -1,19 +1,19 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
+<a href="linkedin.com/in/roy-yanovski/"><img src="https://github.com/royyanovski/ITC_Hackthon/blob/master/245523.png" width="250" height="100"></a>
+<br/>
+<br/>
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/roy-yanovski/]
+<h1 align="center">NBA players breakout-year prediction</h1>
 
-
-
-
-<h3 align="center">NBA players breakout-year prediction</h3>
 
   <p align="center">
     Each year in the NBA, some players have a "breakout season", where they improve the level of their game significantly, which is usually expressed in their statistics. Can breakout seasons be predicted before the season starts? This is the aim of this project.
   </p>
 </div>
-
+<br/>
+<br/>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -21,8 +21,8 @@
 This project started from an enthusiastic, yet frustrated fantasy-basketball player, who also happens to be a data scientist.
 In the project I use machine learning models in order to predict breakout seasons. The data comes from the python NBA API.
 Have fun!
-
-
+<br/>
+<br/>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -49,8 +49,8 @@ Don't forget to give the project a star if you enjoyed reading it! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
+<br/>
+<br/>
 
 <!-- CONTACT -->
 ## Contact
@@ -58,8 +58,8 @@ Don't forget to give the project a star if you enjoyed reading it! Thanks again!
 Roy Yanovski - yanovskir@gmail.com
 
 Project Link: [https://github.com/royyanovski/nba_players_breakout_project](https://github.com/royyanovski/nba_players_breakout_project)
-
-
+<br/>
+<br/>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -67,10 +67,3 @@ Project Link: [https://github.com/royyanovski/nba_players_breakout_project](http
 I would like to add an honourable mention of my fantasy league mates that are pushing me to try and find new ways to beat them.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[linkedin-shield]: https://img.shields.io/
