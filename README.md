@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-<a href="linkedin.com/in/roy-yanovski/"><img src="https://github.com/royyanovski/ITC_Hackthon/blob/master/245523.png" width="250" height="100"></a>
+<a href="https://linkedin.com/in/roy-yanovski/"><img src="https://github.com/royyanovski/ITC_Hackthon/blob/master/245523.png" width="250" height="100"></a>
 <br/>
 <br/>
 
